@@ -1,8 +1,7 @@
 
 <div align="center">
   
-## About Me
-Hello, I am learning to become a full-stack developer, i am studying about Java, Java Script and Web Frameworks for while. 
+
 
 -------------------
 
